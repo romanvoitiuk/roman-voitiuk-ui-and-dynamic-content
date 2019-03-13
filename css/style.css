@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Didact+Gothic');
+
+body{
+    max-width: 50%;
+    width:50%;
+    padding: 40px;
+    margin: 50px auto;
+    font-family: 'Arial', sans-serif;
+  
+}
+
+input {
+    border-radius: 8px;
+    width:70%;
+}
+
+.container{
+    max-width: 45rem;
+    width:45rem;
+    margin: auto;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.masthead{
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: 'Archivo Black','Arial', sans-serif;
+    font-size: 56px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-family: 'Archivo Black','Arial', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.overall{
+    max-width: 45rem;
+    padding: 60px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/bg.jpg);
+    background-color: #D6D5D5;
+    background-position: center;
+    border-radius: 8px;
+   
+}
+
+img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+h2 {
+    margin: 40px;
+}
+
+[type="text"] {
+    width: 75%;
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 81%;
+    font-family: 'Archivo Black','Arial', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #e2a1ff;
+    color: white;
+    border-radius: 8px;
+}
+
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #D6D5D5;
+
+}
+
+ul{
+    text-align: center;
+}
+
+
+ul li {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+    color: white;
+    
+}
+
+
+.fa {
+    margin-top: 70px;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    width: 50px;
+}
